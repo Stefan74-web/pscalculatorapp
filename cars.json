@@ -806,5 +806,13 @@
         "frontalArea": 2.22,
         "dragCoefficient": 0.30,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "bmw-m140i-f20-sdrive-autom",
+        "name": "BMW M140i automatic sDrive (F20)",
+        "weight": 1550,
+        "frontalArea": 2.14,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
     }
 ]
